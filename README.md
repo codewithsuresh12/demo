@@ -1,3 +1,2 @@
 # demo
-upade
-hello
+hello welcome to my repo
